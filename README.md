@@ -186,6 +186,10 @@ StudySpark uses **`localStorage`** exclusively — no backend, no database, no a
 
 ## 🌐 Live Demo
 
+DEloyed vercel link:
+
+🔗 https://study-spark-gray.vercel.app/
+
 Built and deployed for: [digitalheroesco.com](https://digitalheroesco.com)
 
 ---
